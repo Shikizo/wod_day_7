@@ -16,7 +16,7 @@ function sumFibs(num) {
   
     return OddFibo;  
 }
-sumFibs(4);
+sumFibs(1000);
 </script>
 </html>
 
